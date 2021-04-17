@@ -1,8 +1,7 @@
 <h1>Hallo! Saya ridhomr 👋</h1><br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:do.crazy192@gmail.com)](mailto:do.crazy192@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/mohamad-hafid-masruri-a225a9175/)](https://www.linkedin.com/in/mohamad-hafid-masruri-a225a9175/) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&link=https://t.me/xnuxer17)](https://t.me/xnuxer17) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:do.ridhomr404@gmail.com)](mailto:do.ridhomr404@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/ridho-marhaban-b347131a2)](https://id.linkedin.com/in/ridho-marhaban-b347131a2) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/hafet17/)](https://www.instagram.com/hafet17/)
 ![hafet17 Stars](https://img.shields.io/github/stars/hafet17?affiliations=OWNER&style=social)
 
