@@ -1,4 +1,4 @@
-<h1>Hello! I'm ridhomr 👋</h1><br>
+<h1>Hallo! Saya ridhomr 👋</h1><br>
 Saya seorang Web Developer & Bug Hunter dan Saya membuat keterampilan saya di depan umum dan berbagi pengetahuan open source melalui github, dan medium yang saya tulis di https://ridhomarhaban2000.medium.com/ Saya berharap dapat mendorong orang untuk belajar secara terbuka dan tanpa rasa takut, seperti anak kecil. pengikut media ini mengatakan mereka memuji posting blog terbaru saya. Jika Anda setuju, Anda dapat berlangganan RSS blog medium saya melalui tautan di atas terima kasih :)
 
 Berikut beberapa ide untuk Anda mulai :
