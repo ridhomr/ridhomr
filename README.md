@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 
-[![ScriptAutomate's github stats](https://github-readme-stats.vercel.app/api?username=ScriptAutomate&count_private=true&show_icons=true&theme=dark)](https://github.com/ridhomr/github-readme-stats)
+[![ScriptAutomate's github stats](https://github-readme-stats.vercel.app/api?username=ridhomr&count_private=true&show_icons=true&theme=dark)](https://github.com/ridhomr/github-readme-stats)
         
 ## Find me around the web : <img align="left" width="150" height="150" src="https://github.com/ScriptAutomate/ScriptAutomate/blob/master/img/scriptautomate-octocat-rotating.gif?raw=true">
-- Publishing blog on <a href="https://ridhomarhaban2000.medium.com/">ridhomr</a> and <a href="https://www.icanteven.io/">icanteven.io</a> :computer: :pencil:
-- Creating, maintaining, and contributing other code on <a href="https://gitlab.com/ScriptAutomate">GitLab</a> :space_invader:
+- Publishing blog on <a href="https://ridhomarhaban2000.medium.com/">ridhomr</a> and <a href="https://ridhomr.github.io/">ridhomr.io</a> :computer: :pencil:
+- Creating, maintaining, and contributing other code on <a href="https://github.com/ridhomr/">Github</a> :space_invader:
 - Sharing updates on <a href="https://id.linkedin.com/in/ridho-marhaban-b347131a2">LinkedIn</a>
