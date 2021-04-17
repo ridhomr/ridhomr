@@ -1,14 +1,25 @@
 <h1>Hallo! Saya ridhomr 👋</h1><br>
-Saya seorang Web Developer & Bug Hunter dan Saya membuat keterampilan saya di depan umum dan berbagi pengetahuan open source melalui github, dan medium yang saya tulis di https://ridhomarhaban2000.medium.com/ Saya berharap dapat mendorong orang untuk belajar secara terbuka dan tanpa rasa takut, seperti anak kecil. pengikut media ini mengatakan mereka memuji posting blog terbaru saya. Jika Anda setuju, Anda dapat berlangganan RSS blog medium saya melalui tautan di atas terima kasih :)
-Berikut beberapa ide untuk Anda mulai :
 
-- 🌱 Saya sedang belajar ...
-- 👯 Saya ingin berkolaborasi ...
-- ⚡ Saya menyukai hal baru: ...
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:ridhomr404@gmail.com)](mailto:ridhomr404@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/ridho-marhaban-b347131a2](https://id.linkedin.com/in/ridho-marhaban-b347131a2) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/ridhomarhaban/?hl=id)](https://www.instagram.com/ridhomarhaban/?hl=id)
+![ridhomr Stars](https://img.shields.io/github/stars/ridhomr?affiliations=OWNER&style=social)
 
-[![ScriptAutomate's github stats](https://github-readme-stats.vercel.app/api?username=ridhomr&count_private=true&show_icons=true&theme=dark)](https://github.com/ridhomr/github-readme-stats)
+I am ridhomr, 20 years old, an informatics student. My busy life now is as a student, I am familiar with the Web Developer and Bug Bounty Hunter. You can contact me at [Email] (ridhomr404@gmail.com)
+
+** About My Personality **
+
+- My hobby is counting money
+- I live in borneo, Indonesia 🏠:
+- now I'm studying Web Development & Security 💻:
+- My other skills Linux & Networking 💻:
+
+&nbsp;
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhomr&theme=cobalt&show_icons=true)](https://github.com/ridhomr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhomr&hide=TeX&layout=compact&theme=cobalt)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ridhomr.ridhomr)
         
 ## Temukan saya di web : <img align="left" width="150" height="150" src="https://github.com/ScriptAutomate/ScriptAutomate/blob/master/img/scriptautomate-octocat-rotating.gif?raw=true">
-- Menerbitkan blog di <a href="https://ridhomarhaban2000.medium.com/">ridhomr</a> and <a href="https://ridhomr.github.io/">ridhomr.io</a> :computer: :pencil:
-- Membuat, memelihara, dan mengamankan <a href="https://github.com/ridhomr/">Github</a> :space_invader:
-- Sharing update di <a href="https://id.linkedin.com/in/ridho-marhaban-b347131a2">LinkedIn</a>
+
