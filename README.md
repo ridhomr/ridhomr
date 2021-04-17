@@ -11,4 +11,4 @@ Berikut beberapa ide untuk Anda mulai :
 ## Temukan saya di web : <img align="left" width="150" height="150" src="https://github.com/ScriptAutomate/ScriptAutomate/blob/master/img/scriptautomate-octocat-rotating.gif?raw=true">
 - Menerbitkan blog di <a href="https://ridhomarhaban2000.medium.com/">ridhomr</a> and <a href="https://ridhomr.github.io/">ridhomr.io</a> :computer: :pencil:
 - Membuat, memelihara, dan mengamankan <a href="https://github.com/ridhomr/">Github</a> :space_invader:
-- Sharing updates di <a href="https://id.linkedin.com/in/ridho-marhaban-b347131a2">LinkedIn</a>
+- Sharing update di <a href="https://id.linkedin.com/in/ridho-marhaban-b347131a2">LinkedIn</a>
