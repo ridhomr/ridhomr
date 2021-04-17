@@ -1,4 +1,4 @@
-<h1>Hello! I'm a wave ridhomr</h1><br>
+<h1>Hello! I'm ridhomr</h1><br>
 I am a web developer & security and I am an informatics student at a university in Yogyakarta. I build my skill stack in public and share open source knowledge via github, and the medium I write on https://ridhomarhaban2000.medium.com/ I hope to encourage people to learn openly and fearlessly, with childlike neglect wild.
 
 followers of this medium said they applauded my latest blog post. If you agree, you can subscribe to my medium blog RSS or via the link above thanks :)
