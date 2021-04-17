@@ -2,8 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:do.ridhomr404@gmail.com)](mailto:do.ridhomr404@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/ridho-marhaban-b347131a2)](https://id.linkedin.com/in/ridho-marhaban-b347131a2) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/hafet17/)](https://www.instagram.com/hafet17/)
-![hafet17 Stars](https://img.shields.io/github/stars/hafet17?affiliations=OWNER&style=social)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/ridhomarhaban/)](https://www.instagram.com/ridhomarhaban/)
+![hafet17 Stars](https://img.shields.io/github/stars/ridhomr?affiliations=OWNER&style=social)
 
 I am ridhomr, 20 years old, an informatics student. My busy life now is as a student, I am familiar with the Web Developer and Bug Bounty Hunter. You can contact me at [Email] (ridhomr404@gmail.com)
 
