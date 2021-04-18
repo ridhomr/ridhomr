@@ -6,7 +6,7 @@
 ![hafet17 Stars](https://img.shields.io/github/stars/ridhomr?affiliations=OWNER&style=social)
 
 I am ridhomr, 20 years old, an informatics student. My busy life now is as a student, I am familiar with the Web Developer and Bug Bounty Hunter. You can contact me at [Email] (ridhomr404@gmail.com)
-
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhomr" alt="zs-id" /></a></p>
 <u>About My Personality</u>
 
 - My hobby is counting money
