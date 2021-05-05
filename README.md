@@ -9,11 +9,6 @@ I am ridhomr, 20 years old, an informatics student. My busy life now is as a stu
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhomr" alt="zs-id" /></a></p>
 <u>About My Personality</u>
 
-- My hobby is counting money
-- I live in borneo, Indonesia 🏠:
-- now I'm studying Web Development & Security 💻:
-- My other skills Linux & Networking 💻:
-
 &nbsp;
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ridhomr&theme=cobalt&show_icons=true)](https://github.com/ridhomr)
