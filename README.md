@@ -11,7 +11,7 @@
 ## Who I am : 
 
 > Perkenalkan saya ridhomr mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan  <br>
-> menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara / dikembangkan, dan Memperkirakan <br> 
+> menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara / dikembangkan, dan Memperkirakan
 > waktu & biaya untuk proyek, sekaligus Memastikan kode dapat diskalakan atau tidak. [follow](https://github.com/ridhomr/)<br><br>
 
 <p align="center">
