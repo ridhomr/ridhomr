@@ -1,11 +1,11 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi all, i'm ridhomr</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" font-family="Charlotte">Hi all, i'm ridhomr</h1>
 
 <p align="center">
   <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20developer;Hard%2B%Worker;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20developer;Hard%20Worker;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
 
 
