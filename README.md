@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" font-family="Charlotte">Hi all, i'm ridhomr</h1>
+<h1 align="center">Hey there, I'm ridhomr !</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" >
 
 <p align="center">
   <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
