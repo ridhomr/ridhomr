@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Engineer</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Web Developer</h1>
 
 <p align="center">
   <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
