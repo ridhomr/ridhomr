@@ -18,14 +18,3 @@
   
 </p>
 </details>
-
-<div align="center">
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<br />
-<p>
-Email: iceprince.L528@gmail.com <br />
-Skype: https://join.skype.com/invite/JScyn0BMIJ8S <br />
-Telegram: https://t.me/lionel528 <br />
-Discord: Lionel#3661
-</p>
-</div>
