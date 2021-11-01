@@ -12,7 +12,7 @@
 <summary><b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ridhomr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ridhomr&bg_color=000&color=#000080&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ridhomr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ridhomr&bg_color=000&color=#F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 </p>
 </details>
