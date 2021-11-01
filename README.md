@@ -9,10 +9,7 @@
 </p>
 
 
-<summary><b>My Github Stats</b>: </summary>
-<br>
-Key skills include:
-
+<summary><b>Key skills include:</b></summary>
 Promoting and communicating new ideas
 Creating process improvements
 Instituting new technologies
@@ -32,12 +29,12 @@ Please consider following highlights
 
 <p align="center">
 <a href="https://github.com/RedBlood639">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RedBlood639&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RedBlood639&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhomr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhomr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RedBlood639&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ridhomr&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 </details>
