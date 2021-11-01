@@ -9,14 +9,8 @@
 </p>
 
 
-<summary><b>Key skills include:</b></summary>
-Promoting and communicating new ideas
-Creating process improvements
-Instituting new technologies
-Writing maintainable cross-browser code
-Estimating time and costs for projects
-Ensuring code is scalable and responsive
-Please consider following highlights
+<summary><b>Who Am I ?</b></summary>
+Perkenalkan saya ridhomr mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara / dikembangkan, dan Memperkirakan waktu & biaya untuk proyek, sekaligus Memastikan kode dapat diskalakan atau tidak.
 
 🥇 Developed front-end for 25+ webpages using JQuery, Javascript, HTML, CSS, Bootstrap, SCSS/SASS/LESS,
 
