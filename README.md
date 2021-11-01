@@ -8,18 +8,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20developer;Hard%20Worker;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
 
+## Who I am : 
 
-<summary><b>Who Am I ?</b></summary>
-Perkenalkan saya ridhomr mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara / dikembangkan, dan Memperkirakan waktu & biaya untuk proyek, sekaligus Memastikan kode dapat diskalakan atau tidak.
-
-🥇 Developed front-end for 25+ webpages using JQuery, Javascript, HTML, CSS, Bootstrap, SCSS/SASS/LESS,
-
-👍 Built 20+ components in ReactJS, VueJS, Angular, Node, Express
-
-🥊 Built 10+ WordPress Themes and 5+ WordPress Plugin
-
-🛒 Created user-centric e-commerce sits for small business owners using various web technologies including Shopify, WordPress and OpenCart
-
+> Perkenalkan saya ridhomr mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan  <br>
+> menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara / dikembangkan, dan Memperkirakan [this](https://github.com/ridhomr/) <br> 
+> waktu & biaya untuk proyek, sekaligus Memastikan kode dapat diskalakan atau tidak. <br><br>
 
 <p align="center">
 <a href="https://github.com/RedBlood639">
