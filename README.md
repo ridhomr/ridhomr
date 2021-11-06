@@ -3,7 +3,7 @@
 
 - 🌱  Saat ini saya sedang mempelajari pemrograman **Python**
 
-- 💬  menyukai & memiliki ketertarikan di dunia open source **Linux 🐧**
+- 💬  menyukai & memiliki ketertarikan di dunia open source
 
 - **I ❤️️ Linux 🐧**
 
