@@ -1,7 +1,18 @@
-<h1 align="left">Hello Semua <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Saya ridhomr</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Biro!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
+- 🔭  I’m currently working on [Rocketseat](https://github.com/rocketseat/)
+
+- 🌱  I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
+
+- 💬  Ask me about **Linux 🐧**
+
+- 🚀  How to reach me  [birobirobiro.dev](https://birobirobiro.dev)
+
+- ⚡ Fun fact **I ❤️️ ☕**
+
+<br>
 > Perkenalkan saya ridhomr mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan  <br>
 > menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara / dikembangkan, dan Memperkirakan
 > waktu & biaya untuk proyek, sekaligus Memastikan kode dapat diskalakan atau tidak. [follow](https://github.com/ridhomr/)<br><br>
