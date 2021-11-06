@@ -1,5 +1,4 @@
 <h1 align="left">Hallo Semua <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nama ku ridhomr</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 - 🌱  I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
