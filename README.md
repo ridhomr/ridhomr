@@ -11,7 +11,7 @@
 > menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara atau dikembangkan, dan Memperkirakan
 > waktu & biaya untuk proyek, sekaligus Memastikan kode dapat diskalakan atau tidak. [follow](https://github.com/ridhomr/)<br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
+
 
 <p align="center">
 <a href="https://github.com/RedBlood639">
