@@ -1,11 +1,8 @@
 <h1 align="left">Hallo Semua <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nama ku ridhomr</h1>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
-
 - 🌱  Saat ini saya sedang mempelajari pemrograman **Python**
 
 - 💬  menyukai & memiliki ketertarikan di dunia open source **Linux 🐧**
-
-- ⚡ **I ❤️️ </>**
 
 Perkenalkan saya mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan 
 menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara atau dikembangkan, dan Memperkirakan
