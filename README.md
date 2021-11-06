@@ -5,7 +5,7 @@
 
 - 💬  menyukai & memiliki ketertarikan di dunia open source **Linux 🐧**
 
-- ⚡ **I ❤️️ Linux 🐧**
+- **I ❤️️ Linux 🐧**
 
 Perkenalkan saya mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan 
 menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara atau dikembangkan, dan Memperkirakan
