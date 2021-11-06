@@ -1,18 +1,16 @@
 <h1 align="left">Hallo Semua <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nama ku ridhomr</h1>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-- 🌱  I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
+- 🌱  Saat ini saya sedang mempelajari pemrograman **Python**
 
-- 💬  Ask me about **Linux 🐧**
+- 💬  menyukai & memiliki ketertarikan di dunia open source **Linux 🐧**
 
-- 🚀  How to reach me  [birobirobiro.dev](https://birobirobiro.dev)
+- ⚡ **I ❤️️ </>**
 
-- ⚡ Fun fact **I ❤️️ ☕**
-
-> Perkenalkan saya ridhomr mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan  <br>
+> Perkenalkan saya mahasiswa informatika sedang belajar mengkomunikasikan ide-ide unik dan keterampilan  <br>
 > menulis kode dalam memecahkan suatu masalah lintas-browser yang dapat dipelihara / dikembangkan, dan Memperkirakan
 > waktu & biaya untuk proyek, sekaligus Memastikan kode dapat diskalakan atau tidak. [follow](https://github.com/ridhomr/)<br><br>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
 
 <p align="center">
