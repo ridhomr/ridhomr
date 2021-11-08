@@ -1,4 +1,13 @@
 <h1 align="left">Hallo Semua <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nama ku ridhomr</h1>
+<p align="center" style="background:blue">
+  <a href="https://www.instagram.com/ridhomarhaban/?hl=id" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-ridhomarhaban-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  <a href="https://id.linkedin.com/in/ridho-marhaban-b347131a2" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-ridhomarhaban-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhomr&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
