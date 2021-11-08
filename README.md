@@ -14,6 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhomr&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 <h3>I am a Web Developer, I have expertise and experience in Web Security & Linux.</h3>
+
 - 🌱  I’m currently learning **Python**
 - 🚀  like & have an interest in the world of open source
 - ⚡ Fun fact **I ❤️️ ☕**
