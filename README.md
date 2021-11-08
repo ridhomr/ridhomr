@@ -18,7 +18,6 @@
 - 🌱  I’m currently learning **Python**
 
 - 🚀  like & have an interest in the world of open source
-
 - ⚡ Fun fact **I ❤️️ ☕**
 
 
